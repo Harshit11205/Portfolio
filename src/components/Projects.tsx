@@ -34,13 +34,13 @@ const projects = [
   {
     title: "Number Prediction Model",
     category: "AI/ML",
-    description: "An AI-based Face Analyzer that detects faces and predicts gender and age in real time using advanced computer vision techniques.",
+    description: "Developed a machine learning model to predict numerical values from input data using regression techniques, achieving an accuracy of 97.63% on test data.",
     link: "https://github.com/Harshit11205/BharatIntern"
   },
   {
     title: "Face Analyzer",
-    category: "AI/ML",
-    description: "Developed a machine learning model to predict numerical values from input data using regression techniques, achieving an accuracy of 97.63% on test data.",
+    category: "AI / Machine Learning + Computer Vision",
+    description: "Developed a full-stack Face Analyzer application capable of detecting faces and predicting attributes such as age and gender in real time. The system integrates computer vision models with a lightweight web interface to deliver fast and accurate results with 95.67% accuracy.",
     link: "https://face-analyzer-orcin.vercel.app/"
   }
   
